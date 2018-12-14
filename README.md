@@ -1,4 +1,4 @@
-# Specification Guid for API
+# Specification Guide for API
 
 
 ### Revision History
